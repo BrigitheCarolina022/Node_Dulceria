@@ -124,35 +124,6 @@
       "id": 33
     }
   ],
-  "usuarios": [
-    {
-      "id": 2,
-      "nombreusu": "santi",
-      "email": "santi@2gmail.comm",
-      "password": "12677",
-      "nombreproduc": "nucitaa",
-      "cantidad": 3,
-      "valor": 12000
-    },
-    {
-      "id": 3,
-      "nombreusu": "Narly Sanchez",
-      "email": "karen@2gmail.comm",
-      "password": "123456",
-      "nombreproduc": "bombom",
-      "cantidad": 3,
-      "valor": 12000
-    },
-    {
-      "id": 5,
-      "nombreusu": "Brigithe Correa",
-      "email": "Brigithe@2gmail.comm",
-      "password": "1234567",
-      "nombreproduc": "bombom",
-      "cantidad": 3,
-      "valor": 12000
-    }
-  ],
   "productos": [
     {
       "id": 5,

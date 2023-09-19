@@ -7,6 +7,10 @@ import ProyectosCrear from "./pages/proyectos/proyectosCrear";
 import ProyectosEditar from "./pages/proyectos/proyectosEditar";
 import Productos from "./pages/proyectos/productos";
 import Pedidos from "./pages/proyectos/pedidos";
+import Listpedidos from "./pages/proyectos/listpedidos";
+import Baratos from "./pages/baratos";
+import Intermedio from "./pages/intermedio";
+import Caros from "./pages/Caros";
 
 
 function App() {
@@ -22,6 +26,11 @@ function App() {
      <Route path="/editar/:idproyecto" exact element={<ProyectosEditar/>}/>
      <Route path="/dulceria" exact element={<Productos/>}/>
      <Route path="/pedidos" exact element={<Pedidos/>}/>
+     <Route path="/listpedidos" exact element={<Listpedidos/>}/>
+     <Route path="/caros" exact element={<Caros/>}/>
+     <Route path="/baratos" exact element={<Baratos/>}/>
+     <Route path="/intermedio" exact element={<Intermedio/>}/>
+
    </Routes>
  </Router>
 </Fragment>

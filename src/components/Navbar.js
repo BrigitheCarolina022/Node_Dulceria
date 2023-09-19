@@ -15,7 +15,7 @@ const navbar = () => {
             </Link>
           </li>
           <li className="nav-item d-none d-sm-inline-block">
-            <Link to={"/dulceria"} className="nav-link">
+            <Link to={"/"} className="nav-link">
               Salir
             </Link>
           </li>
